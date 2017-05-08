@@ -1,0 +1,86 @@
+* {
+	font-family: "Segoe UI";
+}
+
+.navbar-default {
+	background-color: #28AFB0;
+}
+
+.btn-default {
+	background-color: #28AFB0;
+	color: white;
+}
+
+.btn-default:hover {
+	color: white;
+	background-color: #19647E;
+}
+
+.navbar-nav li:hover {
+	background-color: #19647E;
+}
+
+body {
+	background-color: #F2F4FF;
+}
+
+#mainpage, #top-of-page {
+	background-image: url(titlebg.jpg);
+	background-size: cover;
+	
+}
+
+.panel-default > .panel-heading {
+	background-color: #28AFB0;
+	border-color: #28AFB0;
+	color: white;
+}
+
+#titlepage {
+	font-size: 70pt;
+	color: white;
+	text-shadow: 2px 2px 5px gray;
+}
+
+#titletag {
+	color: white;
+	text-shadow: 2px 2px 5px gray;
+}
+
+#loginpage {
+	font-size: 70pt;
+	color: #28AFB0;
+}
+
+#logintag {
+	color: #28AFB0;
+}
+
+.centered {
+	text-align: center;
+}
+
+.top-offset {
+	margin-top: 45px;
+}
+
+.big-top-offset {
+	margin-top: 125px;
+}
+
+#signup-click:hover {
+	color: #28AFB0;
+}
+.btn-primary:hover {
+	color: #19647E;
+	background-color: white;
+}
+.texting{
+	color : white;
+}
+
+.modal-header {
+	background-color: #28AFB0;
+	color: white;
+	border-radius: 3px 3px 0 0;
+}
